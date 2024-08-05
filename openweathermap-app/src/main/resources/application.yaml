@@ -1,0 +1,8 @@
+server:
+  port: 8099
+spring:
+  application:
+    name: openweathermap-app
+
+openweathermap-starter:
+  city: Batumi
